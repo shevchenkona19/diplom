@@ -1,0 +1,9 @@
+{
+	"defaultSeverity": "off",
+	"jsRules": {},
+	"rules": {
+		"no-console": [false],
+		"severity": "off"
+	},
+	"rulesDirectory": []
+}
